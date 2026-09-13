@@ -5,7 +5,7 @@
 </p>
 
 ###  Who am I?
-I'm a Senior High School student and full-stack web developer with a passion for building software, creating robots, and solving problems. I am part of my school's Robotics organization, Animo Student Patriots in Engineering and Robotics (SPEAR), as Robotics Captain and Research Head. I love collaborating on cool projects, and in my free time, I enjoy photography, arts, and music, as well as playing video games like Roblox, Minecraft, and CODM to unwind.
+I'm a Senior High School student with a passion for building software, creating robots, and solving problems. I am part of my school's Robotics organization, Animo Student Patriots in Engineering and Robotics (SPEAR), as Robotics Captain and Research Head. I also founded our high school's first Mathematics Organization. I love collaborating on cool projects, and in my free time, I enjoy photography, arts, and music, as well as playing video games like Roblox, Minecraft, and CODM to unwind.
 
 ---
 
